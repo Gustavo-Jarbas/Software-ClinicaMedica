@@ -1,0 +1,22 @@
+
+Nome do medico: Gabriel Henrique Nascimento
+Especialidade: Clinico_Geral
+CPF: 12345678911
+CRM: 00007
+Clinica onde reside: Clinica B
+Preco da consulta: R$120
+Dia que trabalha: Segunda a Sexta
+Turno: Tarde
+			-Semana 1-
+Segunda: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Terca: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Quarta: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Quinta: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Sexta: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+			-Semana 2-
+Segunda: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Terca: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Quarta: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Quinta: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+Sexta: 2:00pm 3:00pm 4:00pm lanche 6:00pm 7:00pm 8:00pm 9:00pm
+--------------------------------------------------------------------------------

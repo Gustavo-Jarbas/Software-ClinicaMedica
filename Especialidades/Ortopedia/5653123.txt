@@ -1,0 +1,22 @@
+
+Nome do medico: Matheus Martins
+Especialidade: Ortopedia
+CPF: 12345678923
+CRM: 5653123
+Clinica onde reside: Clinica B
+Preco da consulta: R$400
+Dia que trabalha: Segunda a Sexta
+Turno: Noite
+			-Semana 1-
+Segunda: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Terca: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Quarta: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Quinta: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Sexta: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+			-Semana 2-
+Segunda: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Terca: AGENDADO 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Quarta: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Quinta: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+Sexta: 10:00pm 11:00pm 12:00 lanche 2:00am 3:00am 4:00am 5:00am
+--------------------------------------------------------------------------------
